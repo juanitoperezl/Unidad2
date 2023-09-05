@@ -1,0 +1,32 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package listadetareas;
+
+/**
+ *
+ * @author labcca
+ */
+public class ListadeTareas
+{
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args)
+    {
+     String tarea1= "algoritmos";
+     String tarea2= "psint";
+     String tarea3="diagramas";
+     String tarea4= "java";
+     String tarea5= "definiciones";
+        System.out.println(" La Primer tarea es : " + tarea1);
+        System.out.println("La segunda tarea es: "+ tarea2);
+        System.out.println("La tercer tarea es: "+ tarea3);
+        System.out.println("la siguiente tarea es : " + tarea4);
+        System.out.println("La ultima tarea es:  " + tarea5);
+        
+    }
+    
+}
